@@ -1,1 +1,1 @@
-const filesList=["musics/Blue - All Rise.mp3"];
+const filesList=["musics/Blue - All Rise.mp3","musics/SOOBIN - DANCING IN THE DARK.mp3"];
