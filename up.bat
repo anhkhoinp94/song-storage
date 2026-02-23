@@ -3,6 +3,7 @@
 cd js
 node generate.js
 node generate-cheer.js
+node generate-lsc.js
 cd ..
 
 For /f "tokens=2-4 delims=/ " %%a in ('date /t') do (set mydate=%%c-%%a-%%b)
