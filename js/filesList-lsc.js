@@ -1,1 +1,1 @@
-const filesList=["musics-lsc/UEFA Champions League.mp3"];
+const filesList=["musics-lsc/UEFA Champions League.mp3","musics-lsc/We Are One - Ole Ola.mp3"];
