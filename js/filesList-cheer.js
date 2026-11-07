@@ -1,1 +1,1 @@
-const filesList=["musics-cheer/LSC-full.m4a","musics-cheer/LSC-miniskin.m4a"];
+const filesList=["musics-cheer/anh_Khoi.wav","musics-cheer/LSC-full.m4a","musics-cheer/LSC-miniskin.m4a"];
